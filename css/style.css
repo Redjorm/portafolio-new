@@ -127,6 +127,7 @@ body.offcanvas-menu:before {
   animation: typing 4s steps(40, end) forwards, blink 1s steps(1) infinite;
 }
 
+
 .text-black {
   color: #000000 !important;
 }
